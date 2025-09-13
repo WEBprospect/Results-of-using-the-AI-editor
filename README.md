@@ -10,15 +10,15 @@
 ### ✅ Main Results
 | 파일명 | 설명 |
 |--------|------|
-| `homework_nanobanana_original_image/original.jpeg` | 선택한 원본 일본 이미지 |
+| `homework_nanobanana_original_image` | 선택한 원본 이미지 폴더 |
 | `homework_result.png` | Nano Banana로 변환한 이미지 |
 | `homework_veo3_result.mp4` | 변환된 이미지 기반으로 Veo3로 생성한 영상 |
 
 ### ➕ Additional Results
 | 파일명 | 설명 |
 |--------|------|
-| `additional_original_image/` | 추가적으로 실험한 원본 이미지 폴더 |
-| `additional_result.mp/` | 추가적으로 변환한 veo3 결과 |
+| `additional_original_image` | 추가적으로 실험한 원본 이미지 폴더 |
+| `additional_result.mp` | 추가적으로 변환한 veo3 결과 |
 | `README.md` | 프로젝트 설명 문서 |
 
 ---
